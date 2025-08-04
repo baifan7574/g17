@@ -11,7 +11,7 @@
   "hires_scale": 1.5,
   "hires_denoising_strength": 0.55,
   "refiner": false,
-  "batch_size": 20,
+  "batch_size": 30,
   "total_images": 50,
   "seed": -1,
   "prompt": "realistic reflection of confident woman adjusting earring in gold-rimmed mirror, ambient indoor light, natural makeup, clean vanity desk, soft elegance, fashion portrait feel",
